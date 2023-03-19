@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on liuyl&#39;s blog</title>
+    <link>https://liuyilong.com/tags/</link>
+    <description>Recent content in Tags on liuyl&#39;s blog</description>
+    <image>
+      <title>liuyl&#39;s blog</title>
+      <url>https://liuyilong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://liuyilong.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Mar 2023 01:18:38 +0800</lastBuildDate><atom:link href="https://liuyilong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://liuyilong.com/tags/first/</link>
+      <pubDate>Mon, 20 Mar 2023 01:18:38 +0800</pubDate>
+      
+      <guid>https://liuyilong.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
