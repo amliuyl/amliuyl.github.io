@@ -20,32 +20,5 @@
       <description>Desc Text.</description>
     </item>
     
-    <item>
-      <title>Demo3</title>
-      <link>https://liuyilong.com/posts/life/demo3/</link>
-      <pubDate>Sun, 19 Mar 2023 00:21:06 +0800</pubDate>
-      
-      <guid>https://liuyilong.com/posts/life/demo3/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Demo2</title>
-      <link>https://liuyilong.com/posts/life/demo2/</link>
-      <pubDate>Sun, 19 Mar 2023 00:14:44 +0800</pubDate>
-      
-      <guid>https://liuyilong.com/posts/life/demo2/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://liuyilong.com/posts/life/demo/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:06 +0800</pubDate>
-      
-      <guid>https://liuyilong.com/posts/life/demo/</guid>
-      <description>测试文本.</description>
-    </item>
-    
   </channel>
 </rss>
