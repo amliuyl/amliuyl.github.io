@@ -11,14 +11,41 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 26 Mar 2023 16:54:13 +0800</lastBuildDate><atom:link href="https://liuyilong.com/p/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Mar 2023 23:02:34 +0800</lastBuildDate><atom:link href="https://liuyilong.com/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>组合数学</title>
+      <link>https://liuyilong.com/p/tech/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</link>
+      <pubDate>Mon, 27 Mar 2023 23:02:34 +0800</pubDate>
+      
+      <guid>https://liuyilong.com/p/tech/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</guid>
+      <description>常用或不常用的组合数学概念与公式</description>
+    </item>
+    
+    <item>
+      <title>二项式反演</title>
+      <link>https://liuyilong.com/p/tech/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%8F%8D%E6%BC%94/</link>
+      <pubDate>Mon, 27 Mar 2023 22:18:49 +0800</pubDate>
+      
+      <guid>https://liuyilong.com/p/tech/%E4%BA%8C%E9%A1%B9%E5%BC%8F%E5%8F%8D%E6%BC%94/</guid>
+      <description>算法竞赛多项式相关知识点</description>
+    </item>
+    
     <item>
       <title>拉普拉斯矩阵</title>
       <link>https://liuyilong.com/p/tech/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5/</link>
-      <pubDate>Sun, 26 Mar 2023 16:54:13 +0800</pubDate>
+      <pubDate>Mon, 27 Mar 2023 22:01:45 +0800</pubDate>
       
       <guid>https://liuyilong.com/p/tech/%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%E7%9F%A9%E9%98%B5/</guid>
-      <description>谱图理论中拉普拉斯矩阵相关内容</description>
+      <description>谱图理论中拉普拉斯矩阵学习笔记</description>
+    </item>
+    
+    <item>
+      <title>Min-Max容斥</title>
+      <link>https://liuyilong.com/p/tech/min-max%E5%AE%B9%E6%96%A5/</link>
+      <pubDate>Mon, 27 Mar 2023 19:02:53 +0800</pubDate>
+      
+      <guid>https://liuyilong.com/p/tech/min-max%E5%AE%B9%E6%96%A5/</guid>
+      <description>算法竞赛概率相关知识点min-max容斥</description>
     </item>
     
     <item>
