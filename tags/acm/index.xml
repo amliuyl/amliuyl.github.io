@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 27 Mar 2023 23:02:34 +0800</lastBuildDate><atom:link href="https://liuyilong.com/tags/acm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 04:21:30 +0800</lastBuildDate><atom:link href="https://liuyilong.com/tags/acm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>线性代数算法竞赛模板</title>
+      <link>https://liuyilong.com/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Tue, 28 Mar 2023 04:21:30 +0800</pubDate>
+      
+      <guid>https://liuyilong.com/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</guid>
+      <description>算法竞赛中线性代数基础应用的代码实现模板</description>
+    </item>
+    
     <item>
       <title>组合数学</title>
       <link>https://liuyilong.com/p/tech/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/</link>
