@@ -11,14 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 28 Mar 2023 03:56:17 +0800</lastBuildDate><atom:link href="https://liuyilong.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 04:21:30 +0800</lastBuildDate><atom:link href="https://liuyilong.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://liuyilong.com/p/tech/test/</link>
-      <pubDate>Tue, 28 Mar 2023 03:56:17 +0800</pubDate>
+      <title>线性代数算法竞赛模板</title>
+      <link>https://liuyilong.com/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Tue, 28 Mar 2023 04:21:30 +0800</pubDate>
       
-      <guid>https://liuyilong.com/p/tech/test/</guid>
-      <description>/* ******************************************************** *方法1：C(n,m)=fact[n]/fact[m]/fact[n-m] *！！！最常用！！！ ******************************************************** */ // 快速幂求逆元计算组合数，需要mod是</description>
+      <guid>https://liuyilong.com/p/tech/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E6%A8%A1%E6%9D%BF/</guid>
+      <description>算法竞赛中线性代数基础应用的代码实现模板</description>
     </item>
     
     <item>
